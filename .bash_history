@@ -259,3 +259,17 @@ last
 date
 date -3
 man date
+ls
+cd init
+ls
+git status
+git add .
+git status
+ls
+sudo apt install git
+git --version
+git status
+ls -l
+ls
+cd proc/
+exit

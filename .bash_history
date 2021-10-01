@@ -273,3 +273,141 @@ ls -l
 ls
 cd proc/
 exit
+git --version
+sudo apt install git
+sudo apt update
+sudo apt install git
+git --version
+clear
+ls
+mkdir abc
+cd abc/
+ls
+touch a
+ls
+git init
+ls
+touch a b
+ls
+git status
+git add .
+git status
+git commit -m " 2 files created"
+git status
+git push
+git remote add origin https://github.com/balaganisrinu/samplerr.git
+git branch -M main
+git branch
+git push -u origin main
+git pull https://github.com/balaganisrinu/samplerr.git
+ls
+cd ..
+mkdir reppale
+cd reppale/
+cat kpalem
+cat > kpalem
+ls
+cat kpalem
+git add .
+git commit -m "1 files created"
+git status
+ls
+git add .
+git commit -m " 1 new file created"
+git sattus
+ls
+git status
+git add .
+git status
+ls
+ll
+nano kpalem 
+git status
+nano kpalem 
+git add
+git add -A
+git status
+git commit -m "added new kpalem"
+git status
+ls
+cd ..
+ls
+cd ..
+ls
+cd ubuntu/
+ls
+rm -rf *
+ls
+mkdir dongopi
+cd dongopi/
+cat > fish
+ls
+git status
+git add .
+git commit -m " 1 new file created"
+ls
+git remote add origin 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
+git branch -m main
+git push -u origin main
+git status
+git commit -m
+git commit -m " gopalam added"
+git add .
+git commit -m " gopalam added"
+git add -a
+git add -A
+git status
+git commit -m " 1 new file created"
+git remote add origin main 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
+git branch -m main
+git push -u origin main
+git remote add origin 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
+git push -u origin
+git branch
+git push -u origin main
+git branch -m main
+git push -u origin main
+cat fish
+ls
+cat fish
+nano fish
+git status
+git add -A
+git commit -m "fish"
+git push -u origin main
+git remote add origin https://github.com/balaganisrinu/samplerr.git
+git push -u origin main
+git remote add origin https://github.com/balaganisrinu/samplerr.git
+git branch -M main
+git push
+git push --set-upstream origin main
+git status
+git --help
+ls
+git reset
+git remote add origin https://github.com/balaganisrinu/samplerr.git
+git pull https://github.com/balaganisrinu/samplerr.git
+git push
+git push -u origin main
+git remote set-url Please make sure you have the correct access rights
+git remote set-url https://github.com/balaganisrinu/samplerr.git
+git remote set-url origin https://github.com/balaganisrinu/samplerr.git
+git push -u origin master
+git push -u origin main
+git pull https://github.com/balaganisrinu/samplerr.git'
+git pull https://github.com/balaganisrinu/samplerr.git
+git push -u origin main
+git push
+git push --set-upstream origin main
+git pull https://github.com/balaganisrinu/samplerr.git
+git status
+git branch
+cd ..
+rm -rf *
+ls
+git status
+git add -A
+git sattus
+git status
+git commit -m "create fish"
+git status
